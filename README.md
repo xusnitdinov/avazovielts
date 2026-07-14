@@ -12,7 +12,7 @@ Free IELTS preparation platform for Uzbek students.
 - User authentication with Google OAuth
 - Admin panel for user management
 
-## Tech Stack
+## Tech stack
 
 - **Frontend:** Vanilla HTML/CSS/JS (performance-first, optimized for slow connections)
 - **Backend:** Cloudflare Workers
@@ -26,4 +26,4 @@ This repo contains the frontend only. The backend runs on Cloudflare Workers and
 
 ## Built by
 
-[Azizbek Xusnitdinov](https://github.com/xusnitdinov) — solo project
+[Azizbek Xusnitdinov](https://github.com/xusnitdinov) - solo project
